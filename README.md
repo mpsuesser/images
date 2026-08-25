@@ -298,17 +298,9 @@
 
 ![dimensions.png](./dimensions.png)
 
-[dolphin-around.png](./dolphin-around.png)
-
-![dolphin-around.png](./dolphin-around.png)
-
 [double-folk.png](./double-folk.png)
 
 ![double-folk.png](./double-folk.png)
-
-[dressed-fish.png](./dressed-fish.png)
-
-![dressed-fish.png](./dressed-fish.png)
 
 [dressed-up.png](./dressed-up.png)
 
@@ -378,10 +370,6 @@
 
 ![float-house.png](./float-house.png)
 
-[flora.png](./flora.png)
-
-![flora.png](./flora.png)
-
 [fog-keys.png](./fog-keys.png)
 
 ![fog-keys.png](./fog-keys.png)
@@ -414,10 +402,6 @@
 
 ![future.png](./future.png)
 
-[gaze.png](./gaze.png)
-
-![gaze.png](./gaze.png)
-
 [geo-bear.png](./geo-bear.png)
 
 ![geo-bear.png](./geo-bear.png)
@@ -433,14 +417,6 @@
 [glass-card.png](./glass-card.png)
 
 ![glass-card.png](./glass-card.png)
-
-[glass-cube.png](./glass-cube.png)
-
-![glass-cube.png](./glass-cube.png)
-
-[glassy.png](./glassy.png)
-
-![glassy.png](./glassy.png)
 
 [glossy-red.png](./glossy-red.png)
 
@@ -522,10 +498,6 @@
 
 ![holo-ink.png](./holo-ink.png)
 
-[hooded-frog.png](./hooded-frog.png)
-
-![hooded-frog.png](./hooded-frog.png)
-
 [huleeb.jpg](./huleeb.jpg)
 
 ![huleeb.jpg](./huleeb.jpg)
@@ -582,10 +554,6 @@
 
 ![king.png](./king.png)
 
-[kitty-kat.png](./kitty-kat.png)
-
-![kitty-kat.png](./kitty-kat.png)
-
 [kpop.png](./kpop.png)
 
 ![kpop.png](./kpop.png)
@@ -629,10 +597,6 @@
 [liquid-mark.png](./liquid-mark.png)
 
 ![liquid-mark.png](./liquid-mark.png)
-
-[little-one.png](./little-one.png)
-
-![little-one.png](./little-one.png)
 
 [loft-life.png](./loft-life.png)
 
@@ -682,10 +646,6 @@
 
 ![marilyn.png](./marilyn.png)
 
-[mary.png](./mary.png)
-
-![mary.png](./mary.png)
-
 [mean-girls.png](./mean-girls.png)
 
 ![mean-girls.png](./mean-girls.png)
@@ -718,10 +678,6 @@
 
 ![mono-portrait.png](./mono-portrait.png)
 
-[monosky.png](./monosky.png)
-
-![monosky.png](./monosky.png)
-
 [mucha.png](./mucha.png)
 
 ![mucha.png](./mucha.png)
@@ -750,10 +706,6 @@
 
 ![no-face.png](./no-face.png)
 
-[noir-lips.png](./noir-lips.png)
-
-![noir-lips.png](./noir-lips.png)
-
 [northborn.png](./northborn.png)
 
 ![northborn.png](./northborn.png)
@@ -774,10 +726,6 @@
 
 ![old-luxury.png](./old-luxury.png)
 
-[one.png](./one.png)
-
-![one.png](./one.png)
-
 [open-door.png](./open-door.png)
 
 ![open-door.png](./open-door.png)
@@ -797,10 +745,6 @@
 [painted-eyes.png](./painted-eyes.png)
 
 ![painted-eyes.png](./painted-eyes.png)
-
-[pane.png](./pane.png)
-
-![pane.png](./pane.png)
 
 [paper-tale.png](./paper-tale.png)
 
@@ -898,10 +842,6 @@
 
 ![qatar.png](./qatar.png)
 
-[rag.png](./rag.png)
-
-![rag.png](./rag.png)
-
 [rainbow-ride.png](./rainbow-ride.png)
 
 ![rainbow-ride.png](./rainbow-ride.png)
@@ -909,10 +849,6 @@
 [reach.png](./reach.png)
 
 ![reach.png](./reach.png)
-
-[ready.png](./ready.png)
-
-![ready.png](./ready.png)
 
 [rebirth.png](./rebirth.png)
 
@@ -1098,10 +1034,6 @@
 
 ![skate-or-die.png](./skate-or-die.png)
 
-[sketch-mark.png](./sketch-mark.png)
-
-![sketch-mark.png](./sketch-mark.png)
-
 [skin-ritual.png](./skin-ritual.png)
 
 ![skin-ritual.png](./skin-ritual.png)
@@ -1109,10 +1041,6 @@
 [slavic.png](./slavic.png)
 
 ![slavic.png](./slavic.png)
-
-[smoke-blue.png](./smoke-blue.png)
-
-![smoke-blue.png](./smoke-blue.png)
 
 [snake-puff.png](./snake-puff.png)
 
@@ -1129,10 +1057,6 @@
 [soiree.png](./soiree.png)
 
 ![soiree.png](./soiree.png)
-
-[solo-chaos.png](./solo-chaos.png)
-
-![solo-chaos.png](./solo-chaos.png)
 
 [southwest.png](./southwest.png)
 
@@ -1229,10 +1153,6 @@
 [teal-bloom.png](./teal-bloom.png)
 
 ![teal-bloom.png](./teal-bloom.png)
-
-[terrain-lines.png](./terrain-lines.png)
-
-![terrain-lines.png](./terrain-lines.png)
 
 [text-matter-inverse.png](./text-matter-inverse.png)
 
@@ -1378,10 +1298,6 @@
 
 ![ultra.png](./ultra.png)
 
-[unitree.png](./unitree.png)
-
-![unitree.png](./unitree.png)
-
 [upload.png](./upload.png)
 
 ![upload.png](./upload.png)
@@ -1389,10 +1305,6 @@
 [valentines.png](./valentines.png)
 
 ![valentines.png](./valentines.png)
-
-[valhalla.png](./valhalla.png)
-
-![valhalla.png](./valhalla.png)
 
 [vector-tiger.png](./vector-tiger.png)
 
@@ -1425,14 +1337,6 @@
 [wall-opening.png](./wall-opening.png)
 
 ![wall-opening.png](./wall-opening.png)
-
-[wallhaven.png](./wallhaven.png)
-
-![wallhaven.png](./wallhaven.png)
-
-[want-some.png](./want-some.png)
-
-![want-some.png](./want-some.png)
 
 [wasteland.png](./wasteland.png)
 
@@ -1478,10 +1382,6 @@
 
 ![wide-shot.png](./wide-shot.png)
 
-[window.png](./window.png)
-
-![window.png](./window.png)
-
 [windows-in.png](./windows-in.png)
 
 ![windows-in.png](./windows-in.png)
@@ -1506,14 +1406,6 @@
 
 ![yoonjinhong_Burning_the_face_of_a_suffering_ghost_--v_7_d1856ba9-abdb-44d5-b25b-9f3c1d3f0324.png](./yoonjinhong_Burning_the_face_of_a_suffering_ghost_--v_7_d1856ba9-abdb-44d5-b25b-9f3c1d3f0324.png)
 
-[zen-room.png](./zen-room.png)
-
-![zen-room.png](./zen-room.png)
-
 [zeus.png](./zeus.png)
 
 ![zeus.png](./zeus.png)
-
-[zone-in.png](./zone-in.png)
-
-![zone-in.png](./zone-in.png)
