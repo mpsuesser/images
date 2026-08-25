@@ -1,7 +1,3 @@
-[adam.png](./adam.png)
-
-![adam.png](./adam.png)
-
 [alchimie.png](./alchimie.png)
 
 ![alchimie.png](./alchimie.png)
@@ -813,6 +809,10 @@
 [porcelain.png](./porcelain.png)
 
 ![porcelain.png](./porcelain.png)
+
+[portrait-grid.png](./portrait-grid.png)
+
+![portrait-grid.png](./portrait-grid.png)
 
 [pride.png](./pride.png)
 
